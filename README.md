@@ -1,1 +1,2 @@
 # Goonj
+A comprehensive platform connecting users with NGOs . Our project centralizes a curated list of NGOs, offering users a one-stop resource for discovering and engaging with various organizations. In addition, our community forum provides a space for users to ask questions, seek advice, and share insights, fostering a supportive environment for collaboration and learning within the NGO sector."
